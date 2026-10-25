@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Gatti</h1>
 
 <p align="center">
-  <b>Full-stack developer · Computer Engineering student · Freelancer</b><br>
+  <b>Junior developer · Computer Engineering student · Freelancer</b><br>
   Córdoba, Argentina 🇦🇷
 </p>
 
